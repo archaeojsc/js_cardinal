@@ -1,2 +1,2 @@
-# js_cardinal
+# Portfolio
 Data Science portfolio of J. Scott Cardinal
