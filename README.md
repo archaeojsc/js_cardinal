@@ -1,2 +1,2 @@
 # Portfolio
-Data Science portfolio of J. Scott Cardinal
+My personal Data Science portfolio
